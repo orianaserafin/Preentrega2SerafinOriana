@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 
-header{
+.header{
     height: 100vh;
 }
 
@@ -33,3 +33,10 @@ header{
     height: 400px;
     max-height: 400px;
 }
+
+.main{
+    padding-top: 100px;
+    background-color: lightgray;
+}
+
+
