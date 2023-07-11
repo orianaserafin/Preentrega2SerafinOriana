@@ -1,0 +1,35 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 100vh;
+}
+
+.talleres-container a{
+    color: antiquewhite;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.logo-container span{  
+    color: antiquewhite;
+    font-size: 22px;
+}
+
+.carrusel{
+    height: 600px
+}
+
+.imgLogo{
+    width: 120px;
+    height: 80px;
+}
+.imagenHuerta{
+    height: 400px;
+    max-height: 400px;
+}
